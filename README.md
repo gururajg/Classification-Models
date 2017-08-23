@@ -7,4 +7,4 @@ Classification models used for predictions.
 6. Decision Tree
 7. Random Forest
 
-This was run using Spyder(Python 3.6)
+This project was ran on using Spyder(Python 3.6)
